@@ -64,6 +64,6 @@ This project uses data from WHO and UN under their respective data usage policie
 ---
 
 ### Author: [Senitha Gunathilaka]
-### Contact: [senitha@gmail.com]
+### Contact: [senitha02@gmail.com]
 
 For any questions or suggestions, feel free to reach out!
